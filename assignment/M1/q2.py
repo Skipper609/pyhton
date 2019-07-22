@@ -5,11 +5,11 @@
 def find_one_by_n(num):
     res = 0
 
-    for i in range(num+1):
+    for i in range(1,num+1):
         res += 1/i
     
     return res
 
-num = int(input("Enter a number"))
+num = int(input("Enter a number :"))
 res = find_one_by_n(num)
 print("The result is ",res)

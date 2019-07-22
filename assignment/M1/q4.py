@@ -10,6 +10,6 @@ def find_one_by_ncube(num):
     
     return res
 
-num = int(input("Enter a number"))
+num = int(input("Enter a number :"))
 res = find_one_by_ncube(num)
 print("The result is ",res)
