@@ -1,0 +1,10 @@
+1,Rajesh,M.Tech,56000,CS
+2,Sujesh,B.Tech,46000,CS
+3,Gireesh,B.E,40000,CS
+4,Raja,M.Tech,46000,CS
+5,Rani,B.Tech,37000,IS
+6,Raksha,M.Tech,46000,IS
+7,Roopa,B.E,25000,IS
+8,Sujay,B.Tech,40000,EC
+9,Hari,M.Tech,55000,EC
+10,John,B.E,29000,EC
