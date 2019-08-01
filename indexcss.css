@@ -22,9 +22,8 @@ h3{
     border: 2px solid black;
     background: greenyellow;
 }
-ul{
+/*ul{
     list-style-type: armenian;
-    font-size: 1px;
     overflow: hidden;
 }
 ul :hover{
@@ -35,4 +34,4 @@ ul :hover{
     align-self: auto;
     margin: auto;
 
-}
+}*/
