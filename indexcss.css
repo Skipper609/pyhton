@@ -1,0 +1,38 @@
+body{
+    width: 85%;
+    margin: auto
+}
+h3{
+    background: lightgray;
+}
+#abc {
+    border: 3px solid black;
+    border-collapse: collapse;
+    border-style: solid;
+    width: 100%;
+    font-size: 25px;
+    
+}
+
+#abc td{
+    border: 2px solid black;
+    
+}
+#abc th{
+    border: 2px solid black;
+    background: greenyellow;
+}
+ul{
+    list-style-type: armenian;
+    font-size: 1px;
+    overflow: hidden;
+}
+ul :hover{
+    color: red;
+    font-size: 40px;
+    background-color: green;
+    float: right;
+    align-self: auto;
+    margin: auto;
+
+}
